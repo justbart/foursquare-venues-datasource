@@ -1,4 +1,4 @@
 foursquare-venues-datasource
 ============================
 
-CakePHP2 Datasource for Foursquare Venues Database
+CakePHP3 Datasource for Foursquare Venues Database
